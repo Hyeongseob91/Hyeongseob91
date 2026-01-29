@@ -67,5 +67,5 @@ Building AI-powered products and developer tools:
 
 **Plugins**
 
-- Community-driven Claude Code Plugins (한국어 지원) — https://github.com/wigtn/wigtn-plugins-with-claude-code
+- **wigtn-plugins-with-claude-code** [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigtn-plugins-with-claude-code)
 
