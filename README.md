@@ -4,7 +4,7 @@
 
 **AI Research Engineer** @ Soundmind<br>
 **Research Member** @ Modulabs: NVIDIA RAPIDS Lab<br>
-**Lead** @ WIGTN Crew
+**Founder & Lead** @ WIGTN Crew
 
 *Former Architectural Engineer turned AI Engineer*
 
@@ -67,5 +67,5 @@ Building AI-powered products and developer tools:
 
 **Plugins**
 
-- **wigtn-plugins-with-claude-code** [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigtn-plugins-with-claude-code)
+- Community-driven Claude Code Plugins (한국어 지원) — https://github.com/wigtn/wigtn-plugins-with-claude-code
 
