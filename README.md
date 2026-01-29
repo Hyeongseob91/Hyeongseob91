@@ -56,12 +56,16 @@ Member of [Modulabs RAPIDS LAB](https://github.com/ModulabsRAPIDSLAB), a researc
 - GPU-accelerated ML study notes — https://github.com/Hyeongseob91/nvidia-rapids
 
 
-## WIGTN — Junior Dev Organization
+## WIGTN — Tech Venture
 
-[![WIGPL](https://img.shields.io/badge/WIGPL-www.wigtn.com-2563eb?style=for-the-badge)](https://www.wigtn.com)
+[![WIGVU](https://img.shields.io/badge/WIGVU-www.wigtn.com-2563eb?style=for-the-badge)](https://www.wigtn.com)
 
-Leading a junior developer community focused on hands-on AI/Mobile projects:
+Building AI-powered products and developer tools:
 
-- Claude Code Plugins for Korean developers — https://github.com/wigtn/wigtn-plugins-with-claude-code
-- Travel helper mobile app — https://github.com/wigtn/wigtn-travel-helper
+- **WIGVU** — Claude Code plugins service [![Live](https://img.shields.io/badge/Live-www.wigtn.com-16a34a?style=flat-square)](https://www.wigtn.com) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigvu)
+- **WIGEX** — Travel helper mobile app [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigex)
+
+**Plugins**
+
+- Community-driven Claude Code Plugins (한국어 지원) — https://github.com/wigtn/wigtn-plugins-with-claude-code
 
