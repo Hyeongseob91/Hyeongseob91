@@ -17,18 +17,33 @@
 
 ## About
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
 I enjoy designing and refining AI pipelines — whether it's building RAG systems, orchestrating AI agents, or optimizing end-to-end workflows for production.
 
-**Tech Stack**
+</td>
+<td width="45%" align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hyeongseob91&show_icons=true&hide_title=true&hide_border=true&count_private=true)](https://github.com/Hyeongseob91)
+
+</td>
+</tr>
+</table>
+
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAPIDS](https://img.shields.io/badge/RAPIDS-7400B8?style=flat-square&logo=nvidia&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-FF6F00?style=flat-square)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 ## Current Work @ Soundmind
 
@@ -55,10 +70,3 @@ Leading a junior developer community focused on hands-on AI/Mobile projects:
 - Claude Code Plugins for Korean developers — https://github.com/wigtn/wigtn-plugins-with-claude-code
 - Travel helper mobile app — https://github.com/wigtn/wigtn-travel-helper
 
----
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hyeongseob91&show_icons=true&hide_title=true&hide_border=true&count_private=true)](https://github.com/Hyeongseob91)
-
-</div>
