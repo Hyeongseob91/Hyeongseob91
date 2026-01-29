@@ -46,7 +46,7 @@ Leading a junior developer community focused on hands-on AI/Mobile projects:
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wigtn&repo=wigtn-travel-helper&theme=default" />
 </a>
 
-## RAPIDS LAB — Research Community
+## NVIDIA RAPIDS LAB — Research Community
 
 Member of [Modulabs RAPIDS LAB](https://github.com/ModulabsRAPIDSLAB), a research group focused on GPU-accelerated data science:
 
