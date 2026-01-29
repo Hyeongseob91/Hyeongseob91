@@ -2,7 +2,8 @@
 
 # Hyeongseob Kim
 
-**AI Research Engineer** @ Soundmind · **Lead** @ [WIGTN](https://www.wigtn.com)
+**AI Research Engineer** @ Soundmind<br>
+**Lead** @ [WIGTN](https://www.wigtn.com)
 
 *Former Architectural Engineer turned AI Engineer*
 
@@ -22,7 +23,10 @@
 
 ## Current Work @ Soundmind
 
-Building enterprise AI systems:
+[![SOUNDMIND AI PLATFORM](https://img.shields.io/badge/SOUNDMIND_AI_PLATFORM-Live_Demo-2563eb?style=for-the-badge)](http://work.soundmind.life:12320)
+
+- **AI Agent** — Multi-turn conversation with tool-use capabilities
+- **RAG Agent** — Document-grounded Q&A with semantic retrieval
 
 <a href="https://github.com/wigtn/sm-rag-service">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wigtn&repo=sm-rag-service&theme=default" />
@@ -33,13 +37,24 @@ Building enterprise AI systems:
 
 ## WIGTN — Junior Dev Organization
 
-Leading a junior developer community focused on hands-on AI/Backend projects:
+Leading a junior developer community focused on hands-on AI/Mobile projects:
 
-<a href="https://github.com/wigtn/sm-api-gateway">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wigtn&repo=sm-api-gateway&theme=default" />
+<a href="https://github.com/wigtn/wigtn-plugins-with-claude-code">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wigtn&repo=wigtn-plugins-with-claude-code&theme=default" />
 </a>
-<a href="https://github.com/wigtn/sm-web-console">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wigtn&repo=sm-web-console&theme=default" />
+<a href="https://github.com/wigtn/wigtn-travel-helper">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wigtn&repo=wigtn-travel-helper&theme=default" />
+</a>
+
+## RAPIDS LAB — Research Community
+
+Member of [Modulabs RAPIDS LAB](https://github.com/ModulabsRAPIDSLAB), a research group focused on GPU-accelerated data science:
+
+<a href="https://github.com/ModulabsRAPIDSLAB/GUAM-GPU-based-Auto-ML-for-Robust-Large-Scale-Computation.">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ModulabsRAPIDSLAB&repo=GUAM-GPU-based-Auto-ML-for-Robust-Large-Scale-Computation.&theme=default" />
+</a>
+<a href="https://github.com/ModulabsRAPIDSLAB/Fundamentals_of_Accelerated_Data_Science_with_NVIDIA_RAPIDS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ModulabsRAPIDSLAB&repo=Fundamentals_of_Accelerated_Data_Science_with_NVIDIA_RAPIDS&theme=default" />
 </a>
 
 ## Personal Projects
