@@ -36,25 +36,24 @@ I enjoy designing and refining AI pipelines — whether it's building RAG system
 
 - **AI Agent** — Multi-turn conversation with tool-use capabilities
 - **RAG Agent** — Document-grounded Q&A with semantic retrieval
+- **AICC Agent** — Contact center automation with voice/text support (Coming Soon)
 
 
 ## NVIDIA RAPIDS LAB — Research Community
 
 Member of [Modulabs RAPIDS LAB](https://github.com/ModulabsRAPIDSLAB), a research group focused on GPU-accelerated data science:
 
-<a href="https://github.com/Hyeongseob91/nvidia-rapids"></a>
+- GPU-accelerated ML study notes — https://github.com/Hyeongseob91/nvidia-rapids
 
 
 ## WIGTN — Junior Dev Organization
 
+[![WIGPL](https://img.shields.io/badge/WIGPL-www.wigtn.com-2563eb?style=for-the-badge)](https://www.wigtn.com)
+
 Leading a junior developer community focused on hands-on AI/Mobile projects:
 
-<a href="https://github.com/wigtn/wigtn-plugins-with-claude-code">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wigtn&repo=wigtn-plugins-with-claude-code&theme=default" />
-</a>
-<a href="https://github.com/wigtn/wigtn-travel-helper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wigtn&repo=wigtn-travel-helper&theme=default" />
-</a>
+- Claude Code Plugins for Korean developers — https://github.com/wigtn/wigtn-plugins-with-claude-code
+- Travel helper mobile app — https://github.com/wigtn/wigtn-travel-helper
 
 ---
 
