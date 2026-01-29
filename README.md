@@ -2,7 +2,7 @@
 
 # Hyeongseob Kim
 
-**AI Research Engineer** @ [WIGTN](https://www.wigtn.com)
+**AI Research Engineer** @ Soundmind · **Lead** @ [WIGTN](https://www.wigtn.com)
 
 *Former Architectural Engineer turned AI Engineer*
 
@@ -20,9 +20,9 @@
 - **VLM-based Document AI** — Structure preservation, table extraction, layout understanding
 - **LLM Infrastructure** — Load testing, performance optimization, production deployment
 
-## Current Work @ WIGTN
+## Current Work @ Soundmind
 
-Building enterprise AI systems for Soundmind platform:
+Building enterprise AI systems:
 
 <a href="https://github.com/wigtn/sm-rag-service">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wigtn&repo=sm-rag-service&theme=default" />
@@ -31,7 +31,18 @@ Building enterprise AI systems for Soundmind platform:
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wigtn&repo=sm-agent-tools&theme=default" />
 </a>
 
-## Recent Projects
+## WIGTN — Junior Dev Organization
+
+Leading a junior developer community focused on hands-on AI/Backend projects:
+
+<a href="https://github.com/wigtn/sm-api-gateway">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wigtn&repo=sm-api-gateway&theme=default" />
+</a>
+<a href="https://github.com/wigtn/sm-web-console">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wigtn&repo=sm-web-console&theme=default" />
+</a>
+
+## Personal Projects
 
 <a href="https://github.com/Hyeongseob91/test-vlm-document-parsing">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hyeongseob91&repo=test-vlm-document-parsing&theme=default" />
