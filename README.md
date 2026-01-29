@@ -17,20 +17,13 @@
 
 ## About
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<a href="https://github.com/Hyeongseob91">
+  <img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=Hyeongseob91&show_icons=true&hide_title=true&hide_border=true&count_private=true" />
+</a>
 
 I enjoy designing and refining AI pipelines — whether it's building RAG systems, orchestrating AI agents, or optimizing end-to-end workflows for production.
 
-</td>
-<td width="45%" align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hyeongseob91&show_icons=true&hide_title=true&hide_border=true&count_private=true)](https://github.com/Hyeongseob91)
-
-</td>
-</tr>
-</table>
+<br clear="both"/>
 
 ## Tech Stack
 
@@ -55,6 +48,8 @@ I enjoy designing and refining AI pipelines — whether it's building RAG system
 
 
 ## NVIDIA RAPIDS LAB — Research Community
+
+[![WikiDocs](https://img.shields.io/badge/WikiDocs-RAPIDS_Study-2563eb?style=for-the-badge)](https://wikidocs.net/book/13459)
 
 Member of [Modulabs RAPIDS LAB](https://github.com/ModulabsRAPIDSLAB), a research group focused on GPU-accelerated data science:
 
