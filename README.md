@@ -18,7 +18,7 @@
 ## About
 
 <a href="https://github.com/Hyeongseob91">
-  <img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=Hyeongseob91&show_icons=true&hide_title=true&hide_border=true&count_private=true" />
+  <img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=Hyeongseob91&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=transparent&icon_color=2563eb&text_color=6b7280&ring_color=2563eb" />
 </a>
 
 **I enjoy designing and refining AI pipelines — whether it's building RAG systems, orchestrating AI agents, or optimizing end-to-end workflows for production.**
