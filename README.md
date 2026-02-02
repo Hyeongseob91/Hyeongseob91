@@ -58,7 +58,7 @@ Member of [Modulabs RAPIDS LAB](https://github.com/ModulabsRAPIDSLAB), a researc
 
 ## WIGTN — Tech Venture
 
-[![WIGVU](https://img.shields.io/badge/WIGVU-www.wigtn.com-2563eb?style=for-the-badge)](https://www.wigtn.com)
+[![WIGVU](https://img.shields.io/badge/WIGVU-www.wigtn.com-2563eb?style=for-the-badge)](https://app.wigtn.com)
 
 Building AI-powered products and developer tools:
 
