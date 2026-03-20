@@ -2,7 +2,7 @@
 
 # Hyeongseob Kim
 
-**AI Research Engineer** @ Soundmind<br>
+**AI Research Engineer / Manager** @ Soundmind<br>
 **Research Member** @ Modulabs: NVIDIA RAPIDS Lab<br>
 **Founder & Lead** @ WIGTN Crew
 
@@ -23,6 +23,8 @@
 
 **I enjoy designing and refining AI pipelines — whether it's building RAG systems, orchestrating AI agents, or optimizing end-to-end workflows for production.**
 
+Currently leading the design and development of the **SoundMind AI Ecosystem** — from RAG Pipeline optimization to Admin Console and B2B SaaS Platform.
+
 <br clear="both"/>
 
 ## Tech Stack
@@ -37,14 +39,21 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 ## Current Work @ Soundmind
 
 [![SOUNDMIND AI PLATFORM](https://img.shields.io/badge/SOUNDMIND_AI_PLATFORM-Live_Demo-2563eb?style=for-the-badge)](http://work.soundmind.life:12320)
 
-- **AI Agent** — Multi-turn conversation with tool-use capabilities
-- **RAG Agent** — Document-grounded Q&A with semantic retrieval
-- **AICC Agent** — Contact center automation with voice/text support (Coming Soon)
+**AI Product Engineering**
+- **SoundMind-AI-Console** — Admin Dashboard for RAG Pipeline auto-generation & one-click Docker deployment (PoC lead time: 2 weeks → 5 minutes)
+- **SoundMind-AI-Platform** — B2B SaaS with Chat Agent & RAG Agent, up to 99 simultaneous RAG Pipelines
+
+**AI R&D**
+- **Advanced RAG Pipeline** — Query Rewrite, Hybrid Search, Reranking, RAGAS evaluation (+13%p quality improvement)
+- **WIGVO** — Real-time bidirectional speech translation over legacy PSTN calls (**ACL 2026 Under Review, 1st Author**)
+- **WigtnOCR** — VLM-based Korean public document parsing framework, 2B model surpassing 30B Teacher (**EMNLP 2026 In Prep**)
 
 
 ## NVIDIA RAPIDS LAB — Research Community
@@ -53,6 +62,7 @@
 
 Member of [Modulabs RAPIDS LAB](https://github.com/ModulabsRAPIDSLAB), a research group focused on GPU-accelerated data science:
 
+- GPU-accelerated End-to-End Full GPU-based AutoML System research
 - GPU-accelerated ML study notes — https://github.com/Hyeongseob91/nvidia-rapids
 
 
@@ -62,10 +72,11 @@ Member of [Modulabs RAPIDS LAB](https://github.com/ModulabsRAPIDSLAB), a researc
 
 Building AI-powered products and developer tools:
 
-- **WIGVU** — Claude Code plugins service [![Live](https://img.shields.io/badge/Live-www.wigtn.com-16a34a?style=flat-square)](https://www.wigtn.com) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigvu)
-- **WIGEX** — Travel helper mobile app [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigex)
+- **WIGTN-Coding** — Claude Code AI-Native development workflow plugins (7 Commands, 14 Agents, 7 Skills) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigtn-plugins-with-claude-code)
+- **WIGVU** — YouTube subtitle extraction, translation & AI analysis service [![Live](https://img.shields.io/badge/Live-www.wigtn.com-16a34a?style=flat-square)](https://www.wigtn.com) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigvu)
+- **WIGEX** — Travel expense tracking mobile app with AI receipt OCR [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigex)
+- **TimeLens** — Multimodal AI museum curator with voice + camera (Gemini Live Agent Challenge) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigtn-timelens)
 
-**Plugins**
+**Open Source**
 
-- Community-driven Claude Code Plugins (한국어 지원) — https://github.com/wigtn/wigtn-plugins-with-claude-code
-
+- **LLM Loadtester** — LLM serving performance benchmarking tool (TTFT/TPOT/Goodput visualization) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/Hyeongseob91/engineering-llm-loadtester)
