@@ -9,7 +9,7 @@
 *Former Architectural Engineer turned AI Engineer*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hyeongseob91.github.io-2563eb?style=flat-square&logo=github)](https://hyeongseob91.github.io)
-[![Hub](https://img.shields.io/badge/Hub-Blog_|_Reports_|_Activities-8B5CF6?style=flat-square&logo=github)](https://hyeongseob91.github.io/hub)
+[![Blog](https://img.shields.io/badge/Blog-Tistory-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://harrison-kim.tistory.com/)
 
 </div>
 
