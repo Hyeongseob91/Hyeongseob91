@@ -74,7 +74,7 @@ Member of [Modulabs RAPIDS LAB](https://github.com/ModulabsRAPIDSLAB), a researc
 - **TimeLens** — Multimodal AI museum curator with voice + camera (Gemini Live Agent Challenge) [![Demo](https://img.shields.io/badge/Demo-YouTube-FF0000?style=flat-square&logo=youtube)](https://youtu.be/ITaMtVO5jFg) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigtn-timelens)
 - **LLM Loadtester** — LLM serving performance benchmarking tool (TTFT/TPOT/Goodput visualization) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/Hyeongseob91/engineering-llm-loadtester)
 
-**Products**
+**Business Products**
 
-- **WIGVU** — YouTube subtitle extraction, translation & AI analysis service [![Live](https://img.shields.io/badge/Live-www.wigtn.com-16a34a?style=flat-square)](https://www.wigtn.com) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigvu)
-- **WIGEX** — Travel expense tracking mobile app with AI receipt OCR [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigex)
+- **WIGVU** — YouTube subtitle extraction, translation & AI analysis service
+- **WIGEX** — Travel expense tracking mobile app with AI receipt OCR
