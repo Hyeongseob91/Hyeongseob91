@@ -44,16 +44,14 @@ Currently leading the design and development of the **SoundMind AI Ecosystem** �
 
 ## Current Work @ Soundmind
 
-[![SOUNDMIND AI PLATFORM](https://img.shields.io/badge/SOUNDMIND_AI_PLATFORM-Live_Demo-2563eb?style=for-the-badge)](http://work.soundmind.life:12320)
-
 **AI Product Engineering**
-- **SoundMind-AI-Console** — Admin Dashboard for RAG Pipeline auto-generation & one-click Docker deployment (PoC lead time: 2 weeks → 5 minutes)
+- **SoundMind-AI-Console** — Admin Dashboard for RAG Pipeline auto-generation & one-click Docker deployment
 - **SoundMind-AI-Platform** — B2B SaaS with Chat Agent & RAG Agent, up to 99 simultaneous RAG Pipelines
 
 **AI R&D**
 - **Advanced RAG Pipeline** — Query Rewrite, Hybrid Search, Reranking, RAGAS evaluation (+13%p quality improvement)
-- **WIGVO** — Real-time bidirectional speech translation over legacy PSTN calls (**ACL 2026 Under Review, 1st Author**)
-- **WigtnOCR** — VLM-based Korean public document parsing framework, 2B model surpassing 30B Teacher (**EMNLP 2026 In Prep**)
+- **WIGVO** — Real-time bidirectional speech translation over legacy PSTN calls (**ACL 2026 Under Review, 1st Author**) [![Demo](https://img.shields.io/badge/Demo-YouTube-FF0000?style=flat-square&logo=youtube)](https://youtu.be/_ixVEnHJxjk) [![Live](https://img.shields.io/badge/Live-Cloud_Run-4285F4?style=flat-square&logo=googlecloud)](https://wigvo-web-gzjzn35jyq-du.a.run.app/) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigvo-v2)
+- **WigtnOCR** — VLM-based Korean public document parsing framework, 2B model surpassing 30B Teacher (**EMNLP 2026 In Prep**) [![Model](https://img.shields.io/badge/Model-HuggingFace-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/Wigtn/Qwen3-VL-2B-WigtnOCR) [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/Wigtn/KoGovDoc-Bench) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/Hyeongseob91/research-vlm-based-document-parsing)
 
 
 ## NVIDIA RAPIDS LAB — Research Community
@@ -68,15 +66,15 @@ Member of [Modulabs RAPIDS LAB](https://github.com/ModulabsRAPIDSLAB), a researc
 
 ## WIGTN — Tech Venture
 
-[![WIGVU](https://img.shields.io/badge/WIGVU-www.wigtn.com-2563eb?style=for-the-badge)](https://app.wigtn.com)
-
-Building AI-powered products and developer tools:
-
-- **WIGTN-Coding** — Claude Code AI-Native development workflow plugins (7 Commands, 14 Agents, 7 Skills) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigtn-plugins-with-claude-code)
-- **WIGVU** — YouTube subtitle extraction, translation & AI analysis service [![Live](https://img.shields.io/badge/Live-www.wigtn.com-16a34a?style=flat-square)](https://www.wigtn.com) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigvu)
-- **WIGEX** — Travel expense tracking mobile app with AI receipt OCR [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigex)
-- **TimeLens** — Multimodal AI museum curator with voice + camera (Gemini Live Agent Challenge) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigtn-timelens)
+[![WIGTN](https://img.shields.io/badge/WIGTN-wigtn.com-2563eb?style=for-the-badge)](https://wigtn.com)
 
 **Open Source**
 
+- **WIGTN-Coding** — Claude Code AI-Native development workflow plugins (7 Commands, 14 Agents, 7 Skills) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigtn-plugins-with-claude-code)
+- **TimeLens** — Multimodal AI museum curator with voice + camera (Gemini Live Agent Challenge) [![Demo](https://img.shields.io/badge/Demo-YouTube-FF0000?style=flat-square&logo=youtube)](https://youtu.be/ITaMtVO5jFg) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigtn-timelens)
 - **LLM Loadtester** — LLM serving performance benchmarking tool (TTFT/TPOT/Goodput visualization) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/Hyeongseob91/engineering-llm-loadtester)
+
+**Products**
+
+- **WIGVU** — YouTube subtitle extraction, translation & AI analysis service [![Live](https://img.shields.io/badge/Live-www.wigtn.com-16a34a?style=flat-square)](https://www.wigtn.com) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigvu)
+- **WIGEX** — Travel expense tracking mobile app with AI receipt OCR [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigex)
