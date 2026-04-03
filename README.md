@@ -4,7 +4,7 @@
 
 **AI Research Engineer / Manager** @ Soundmind<br>
 **Research Member** @ Modulabs: NVIDIA RAPIDS Lab<br>
-**Founder & Lead** @ WIGTN Crew
+**Founder & Crew Lead** @ WIGTN Crew
 
 *Former Architectural Engineer turned AI Engineer*
 
