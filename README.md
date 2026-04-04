@@ -50,8 +50,6 @@ Currently leading the design and development of the **SoundMind AI Ecosystem** �
 
 **AI R&D**
 - **Advanced RAG Pipeline** — Query Rewrite, Hybrid Search, Reranking, RAGAS evaluation (+13%p quality improvement)
-- **WIGVO** — Real-time bidirectional speech translation over legacy PSTN calls (**ACL 2026 Under Review, 1st Author**) [![Demo](https://img.shields.io/badge/Demo-YouTube-FF0000?style=flat-square&logo=youtube)](https://youtu.be/_ixVEnHJxjk) [![Live](https://img.shields.io/badge/Live-Cloud_Run-4285F4?style=flat-square&logo=googlecloud)](https://wigvo-web-gzjzn35jyq-du.a.run.app/) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigvo-v2)
-- **WigtnOCR** — VLM-based Korean public document parsing framework, 2B model surpassing 30B Teacher (**EMNLP 2026 In Prep**) [![Model](https://img.shields.io/badge/Model-HuggingFace-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/Wigtn/Qwen3-VL-2B-WigtnOCR) [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/Wigtn/KoGovDoc-Bench) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/Hyeongseob91/research-vlm-based-document-parsing)
 
 
 ## NVIDIA RAPIDS LAB — Research Community
@@ -67,6 +65,10 @@ Member of [Modulabs RAPIDS LAB](https://github.com/ModulabsRAPIDSLAB), a researc
 ## WIGTN — Tech Venture
 
 [![WIGTN](https://img.shields.io/badge/WIGTN-wigtn.com-2563eb?style=for-the-badge)](https://wigtn.com)
+
+**AI R&D**
+- **WIGVO** — Real-time bidirectional speech translation over legacy PSTN calls (**ACL 2026 Under Review, 1st Author**) [![Demo](https://img.shields.io/badge/Demo-YouTube-FF0000?style=flat-square&logo=youtube)](https://youtu.be/_ixVEnHJxjk) [![Live](https://img.shields.io/badge/Live-Cloud_Run-4285F4?style=flat-square&logo=googlecloud)](https://wigvo-web-gzjzn35jyq-du.a.run.app/) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigvo-v2)
+- **WigtnOCR** — VLM-based Korean public document parsing framework, 2B model surpassing 30B Teacher (**EMNLP 2026 In Prep**) [![Model](https://img.shields.io/badge/Model-HuggingFace-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/Wigtn/Qwen3-VL-2B-WigtnOCR) [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/Wigtn/KoGovDoc-Bench) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/Hyeongseob91/research-vlm-based-document-parsing)
 
 **Open Source**
 
