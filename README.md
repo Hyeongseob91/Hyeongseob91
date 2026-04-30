@@ -2,7 +2,7 @@
 
 # Hyeong-seob(Harrison) Kim
 
-**Engineering Part Lead** @ Braincrew · Research Engineering Team (2026.04 ~)<br>
+**Engineering Part Lead** @ Braincrew · Research Engineering Team<br>
 **Research Member** @ Modulabs: NVIDIA RAPIDS Lab<br>
 **Founder & Lead** @ WIGTN
 
