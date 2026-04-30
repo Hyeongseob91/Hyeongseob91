@@ -2,7 +2,7 @@
 
 # Hyeongseob Kim
 
-**AI Research Engineer / Manager** @ Soundmind<br>
+**Engineering Part Lead** @ Braincrew · Research Engineering Team<br>
 **Research Member** @ Modulabs: NVIDIA RAPIDS Lab<br>
 **Founder & Crew Lead** @ WIGTN Crew
 
@@ -19,7 +19,9 @@
 
 **I enjoy designing and refining AI pipelines — whether it's building RAG systems, orchestrating AI agents, or optimizing end-to-end workflows for production.**
 
-Currently leading the design and development of the **SoundMind AI Ecosystem** — from RAG Pipeline optimization to Admin Console and B2B SaaS Platform.
+Currently leading **Research Engineering** at Braincrew, building production AI systems end-to-end.
+
+Previously led the **SoundMind AI Ecosystem** (RAG Pipeline optimization, Admin Console, B2B SaaS Platform) at Soundmind (~2026.03).
 
 ## Tech Stack
 
@@ -36,7 +38,12 @@ Currently leading the design and development of the **SoundMind AI Ecosystem** �
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-## Current Work @ Soundmind
+## Current Work @ Braincrew
+
+**Research Engineering Team — Engineering Part Lead**
+- Leading the engineering part of the Research Engineering team (joined 2026.04)
+
+## Previous Work @ Soundmind (~2026.03)
 
 **AI Product Engineering**
 - **SoundMind-AI-Console** — Admin Dashboard for RAG Pipeline auto-generation & one-click Docker deployment
@@ -61,7 +68,7 @@ Member of [Modulabs RAPIDS LAB](https://github.com/ModulabsRAPIDSLAB), a researc
 [![WIGTN](https://img.shields.io/badge/WIGTN-wigtn.com-2563eb?style=for-the-badge)](https://wigtn.com)
 
 **AI R&D**
-- **WIGVO** — Real-time bidirectional speech translation over legacy PSTN calls (**ACL 2026 Under Review, 1st Author**) [![Demo](https://img.shields.io/badge/Demo-YouTube-FF0000?style=flat-square&logo=youtube)](https://youtu.be/_ixVEnHJxjk) [![Live](https://img.shields.io/badge/Live-Cloud_Run-4285F4?style=flat-square&logo=googlecloud)](https://wigvo-web-gzjzn35jyq-du.a.run.app/) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigvo-v2)
+- **WIGVO** — Real-time bidirectional speech translation over legacy PSTN calls (**ACL 2026 Accepted, 1st Author**) [![Demo](https://img.shields.io/badge/Demo-YouTube-FF0000?style=flat-square&logo=youtube)](https://youtu.be/_ixVEnHJxjk) [![Live](https://img.shields.io/badge/Live-Cloud_Run-4285F4?style=flat-square&logo=googlecloud)](https://wigvo-web-gzjzn35jyq-du.a.run.app/) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigvo-v2)
 - **WigtnOCR** — VLM-based Korean public document parsing framework, 2B model surpassing 30B Teacher (**EMNLP 2026 In Prep**) [![Model](https://img.shields.io/badge/Model-HuggingFace-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/Wigtn/Qwen3-VL-2B-WigtnOCR) [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/Wigtn/KoGovDoc-Bench) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/Hyeongseob91/research-vlm-based-document-parsing)
 
 **Open Source**
@@ -74,3 +81,8 @@ Member of [Modulabs RAPIDS LAB](https://github.com/ModulabsRAPIDSLAB), a researc
 
 - **WIGVU** — YouTube subtitle extraction, translation & AI analysis service
 - **WIGEX** — Travel expense tracking mobile app with AI receipt OCR
+
+## Hackathons & Awards
+
+- 🥈 **Snowflake AI & Data Hackathon 2026 Korea — Tech Track Runner-up** (Team WIGTN) [![News](https://img.shields.io/badge/News-Newswire-1f6feb?style=flat-square)](https://www.newswire.co.kr/newsRead.php?no=1033575)
+  **WIGTN FLAKE** — Purpose-driven local intelligence platform. Snowflake Cortex 11 features (Agent, Analyst × 4, FORECAST, ANOMALY_DETECTION, AI_SENTIMENT, AI_CLASSIFY, Dynamic Tables, Python UDFs, Semantic Models) + GPT-4o hybrid orchestration over 4 datasets (SPH / RichGo / NextTrade / AJD).
