@@ -2,9 +2,9 @@
 
 # Hyeongseob Kim
 
-**Engineering Part Lead** @ Braincrew · Research Engineering Team<br>
+**Engineering Part Lead** @ Braincrew · Research Engineering Team (2026.04 ~)<br>
 **Research Member** @ Modulabs: NVIDIA RAPIDS Lab<br>
-**Founder & Crew Lead** @ WIGTN Crew
+**Founder & Lead** @ WIGTN
 
 *Former Architectural Engineer turned AI Research Engineer*
 
@@ -21,7 +21,7 @@
 
 Currently leading **Research Engineering** at Braincrew, building production AI systems end-to-end.
 
-Previously led the **SoundMind AI Ecosystem** (RAG Pipeline optimization, Admin Console, B2B SaaS Platform) at Soundmind (~2026.03).
+Previously led the **SoundMind AI Ecosystem** (RAG Pipeline optimization, Admin Console, B2B SaaS Platform) at Soundmind (2025.07 ~ 2026.03).
 
 ## Tech Stack
 
@@ -38,12 +38,12 @@ Previously led the **SoundMind AI Ecosystem** (RAG Pipeline optimization, Admin 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-## Current Work @ Braincrew
+## Current Work @ Braincrew (2026.04 ~)
 
 **Research Engineering Team — Engineering Part Lead**
-- Leading the engineering part of the Research Engineering team (joined 2026.04)
+- Leading the engineering part of the Research Engineering team
 
-## Previous Work @ Soundmind (~2026.03)
+## Previous Work @ Soundmind (2025.07 ~ 2026.03)
 
 **AI Product Engineering**
 - **SoundMind-AI-Console** — Admin Dashboard for RAG Pipeline auto-generation & one-click Docker deployment
