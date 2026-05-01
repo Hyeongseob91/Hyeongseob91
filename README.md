@@ -6,7 +6,7 @@
 **Research Member** @ Modulabs: NVIDIA RAPIDS Lab<br>
 **Founder & Lead** @ WIGTN
 
-*Former Architectural Engineer turned AI Research Engineer*
+*Former Construction Engineer turned AI Research Engineer*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hyeongseob91.github.io-2563eb?style=flat-square&logo=github)](https://hyeongseob91.github.io)
 [![Blog](https://img.shields.io/badge/Blog-Tistory-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://harrison-kim.tistory.com/)
