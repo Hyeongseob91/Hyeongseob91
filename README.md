@@ -4,7 +4,7 @@
 
 **Engineering Part Lead** @ Braincrew · Research Engineering Team<br>
 **Research Member** @ Modulabs: NVIDIA RAPIDS Lab<br>
-**Founder & Lead** @ WIGTN
+**Crew Lead** @ WIGTN
 
 *Former Construction Engineer turned AI Research Engineer*
 
