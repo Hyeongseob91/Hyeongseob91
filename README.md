@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hyeong-seob(Harrison) Kim
+# Harrison Kim
 
 **Engineering Part Lead** @ Braincrew · Research Engineering Team<br>
 **Research Member** @ Modulabs: NVIDIA RAPIDS Lab<br>
