@@ -1,10 +1,10 @@
 <div align="center">
 
-# Harrison Kim
+# Hyeong-seob(Harrison) Kim
 
-**Engineering Part Lead** @ Braincrew · Research Engineering Team<br>
-**AI Researcher** @ Modulabs: NVIDIA RAPIDS Lab<br>
-**Crew Lead** @ WIGTN
+**AI Research Engineer** @ Braincrew · Research Engineering Team<br>
+**AI Researcher** @ RAPIDS LAB (MODULABS)<br>
+**Founder** @ WIGTN · AI Research Group
 
 *Former Construction Engineer turned AI Research Engineer*
 
@@ -19,7 +19,7 @@
 
 **I enjoy designing and refining AI pipelines, whether it's building RAG systems, orchestrating AI agents, or optimizing end-to-end workflows for production.**
 
-Currently leading **Research Engineering** at Braincrew, building production AI systems end-to-end.
+Currently at Braincrew's **Research Engineering** team, building production AI systems end-to-end.
 
 Previously led the **SoundMind AI Ecosystem** (RAG Pipeline optimization, Admin Console, B2B SaaS Platform) at Soundmind (2025.07 ~ 2026.03).
 
@@ -40,8 +40,8 @@ Previously led the **SoundMind AI Ecosystem** (RAG Pipeline optimization, Admin 
 
 ## Current Work @ Braincrew (2026.04 ~)
 
-**Research Engineering Team · Engineering Part Lead**
-- Leading the engineering part of the Research Engineering team
+**AI Research Engineer · Research Engineering Team**
+- Design and build B2B production AI systems end to end: advanced RAG pipelines, admin console, and SaaS platform
 
 ## Previous Work @ Soundmind (2025.07 ~ 2026.03)
 
@@ -63,7 +63,7 @@ Member of [Modulabs RAPIDS LAB](https://github.com/ModulabsRAPIDSLAB), a researc
 - GPU-accelerated ML study notes: https://github.com/Hyeongseob91/research-nvidia-rapids
 
 
-## WIGTN · AI-Native-based Builder Crew
+## WIGTN · AI Research Group
 
 [![WIGTN](https://img.shields.io/badge/WIGTN-wigtn.com-2563eb?style=for-the-badge)](https://wigtn.com)
 
