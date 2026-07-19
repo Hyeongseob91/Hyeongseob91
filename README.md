@@ -3,7 +3,7 @@
 # Harrison Kim
 
 **Engineering Part Lead** @ Braincrew · Research Engineering Team<br>
-**Research Member** @ Modulabs: NVIDIA RAPIDS Lab<br>
+**AI Researcher** @ Modulabs: NVIDIA RAPIDS Lab<br>
 **Crew Lead** @ WIGTN
 
 *Former Construction Engineer turned AI Research Engineer*
@@ -17,7 +17,7 @@
 
 ## About
 
-**I enjoy designing and refining AI pipelines — whether it's building RAG systems, orchestrating AI agents, or optimizing end-to-end workflows for production.**
+**I enjoy designing and refining AI pipelines, whether it's building RAG systems, orchestrating AI agents, or optimizing end-to-end workflows for production.**
 
 Currently leading **Research Engineering** at Braincrew, building production AI systems end-to-end.
 
@@ -40,49 +40,51 @@ Previously led the **SoundMind AI Ecosystem** (RAG Pipeline optimization, Admin 
 
 ## Current Work @ Braincrew (2026.04 ~)
 
-**Research Engineering Team — Engineering Part Lead**
+**Research Engineering Team · Engineering Part Lead**
 - Leading the engineering part of the Research Engineering team
 
 ## Previous Work @ Soundmind (2025.07 ~ 2026.03)
 
 **AI Product Engineering**
-- **SoundMind-AI-Console** — Admin Dashboard for RAG Pipeline auto-generation & one-click Docker deployment
-- **SoundMind-AI-Platform** — B2B SaaS with Chat Agent & RAG Agent, up to 99 simultaneous RAG Pipelines
+- **SoundMind-AI-Console**: Admin Dashboard for RAG Pipeline auto-generation & one-click Docker deployment
+- **SoundMind-AI-Platform**: B2B SaaS with Chat Agent & RAG Agent, up to 99 simultaneous RAG Pipelines
 
 **AI R&D**
-- **Advanced RAG Pipeline** — Query Rewrite, Hybrid Search, Reranking, RAGAS evaluation (+13%p quality improvement)
+- **Advanced RAG Pipeline**: Query Rewrite, Hybrid Search, Reranking, RAGAS evaluation (+13%p quality improvement)
 
 
-## NVIDIA RAPIDS LAB — Research Community
+## NVIDIA RAPIDS LAB · Research Community
 
 [![WikiDocs](https://img.shields.io/badge/WikiDocs-RAPIDS_Study-2563eb?style=for-the-badge)](https://wikidocs.net/book/13459)
 
 Member of [Modulabs RAPIDS LAB](https://github.com/ModulabsRAPIDSLAB), a research group focused on GPU-accelerated data science:
 
 - GPU-accelerated End-to-End Full GPU-based AutoML System research
-- GPU-accelerated ML study notes — https://github.com/Hyeongseob91/nvidia-rapids
+- GPU-accelerated ML study notes: https://github.com/Hyeongseob91/research-nvidia-rapids
 
 
-## WIGTN — AI-Native-based Builder Crew
+## WIGTN · AI-Native-based Builder Crew
 
 [![WIGTN](https://img.shields.io/badge/WIGTN-wigtn.com-2563eb?style=for-the-badge)](https://wigtn.com)
 
 **AI R&D**
-- **WIGVO** — Real-time bidirectional speech translation over legacy PSTN calls (**ACL 2026 Accepted, 1st Author**) [![Demo](https://img.shields.io/badge/Demo-YouTube-FF0000?style=flat-square&logo=youtube)](https://youtu.be/_ixVEnHJxjk) [![Live](https://img.shields.io/badge/Live-Cloud_Run-4285F4?style=flat-square&logo=googlecloud)](https://wigvo-web-gzjzn35jyq-du.a.run.app/) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigvo-v2)
-- **WigtnOCR** — VLM-based Korean public document parsing framework, 2B model surpassing 30B Teacher (**EMNLP 2026 In Prep**) [![Model](https://img.shields.io/badge/Model-HuggingFace-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/Wigtn/Qwen3-VL-2B-WigtnOCR) [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/Wigtn/KoGovDoc-Bench) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/Hyeongseob91/research-vlm-based-document-parsing)
+- **WIGVO**: Real-time bidirectional speech translation over legacy PSTN calls (**Published in ACL 2026 System Demos, 1st Author**) [![Paper](https://img.shields.io/badge/Paper-ACL_Anthology-B31B1B?style=flat-square)](https://aclanthology.org/2026.acl-demo.33/) [![Video](https://img.shields.io/badge/Video-YouTube-FF0000?style=flat-square&logo=youtube)](https://youtu.be/jK1CDOQExLw) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigvo)
+- **WigtnOCR**: VLM-based Korean public document parsing framework, 2B model surpassing 30B Teacher (**EMNLP 2026 In Prep**) [![Model](https://img.shields.io/badge/Model-HuggingFace-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/Wigtn/Qwen3-VL-2B-WigtnOCR) [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/Wigtn/KoGovDoc-Bench) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigtnOCR-v1)
 
 **Open Source**
 
-- **WIGTN-Coding** — Claude Code AI-Native development workflow plugins (7 Commands, 14 Agents, 7 Skills) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigtn-plugins-with-claude-code)
-- **TimeLens** — Multimodal AI museum curator with voice + camera (Gemini Live Agent Challenge) [![Demo](https://img.shields.io/badge/Demo-YouTube-FF0000?style=flat-square&logo=youtube)](https://youtu.be/ITaMtVO5jFg) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigtn-timelens)
-- **LLM Loadtester** — LLM serving performance benchmarking tool (TTFT/TPOT/Goodput visualization) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/Hyeongseob91/engineering-llm-loadtester)
+- **WIGTN-Coding**: Claude Code AI-Native development workflow plugins (7 Commands, 14 Agents, 7 Skills) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigtn-plugins)
+- **LLM Loadtester**: LLM serving performance benchmarking tool (TTFT/TPOT/Goodput visualization) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/Hyeongseob91/engineering-llm-loadtester)
 
 **Business Products**
 
-- **WIGVU** — YouTube subtitle extraction, translation & AI analysis service
-- **WIGEX** — Travel expense tracking mobile app with AI receipt OCR
+- **WIGVU**: YouTube subtitle extraction, translation & AI analysis service
+- **WIGEX**: Travel expense tracking mobile app with AI receipt OCR
 
 ## Hackathons & Awards
 
-- 🥈 **Snowflake AI & Data Hackathon 2026 Korea — Tech Track 2nd Place** [![Demo](https://img.shields.io/badge/Demo-YouTube-FF0000?style=flat-square&logo=youtube)](https://youtu.be/1YzSp3SdzTk) [![News](https://img.shields.io/badge/News-Newswire-1f6feb?style=flat-square)](https://www.newswire.co.kr/newsRead.php?no=1033575)<br>
-  **WIGTN FLAKE** — A purpose-driven local intelligence platform. Users pick what they want to do — open a cafe, run targeted rental marketing, place outdoor ads, invest in real estate — and an AI expert panel cross-reads four datasets (real estate, foot traffic, card sales, telecom contracts) to recommend the best neighborhoods, surface anomaly signals before they show up in headlines, and project six-month trends. Built on a hybrid Snowflake Cortex × GPT-4o orchestration that lets the analysis read like a conversation between domain experts rather than a dashboard.
+- 🥈 **Snowflake AI & Data Hackathon 2026 Korea · Tech Track 2nd Place** [![Demo](https://img.shields.io/badge/Demo-YouTube-FF0000?style=flat-square&logo=youtube)](https://youtu.be/1YzSp3SdzTk) [![News](https://img.shields.io/badge/News-Newswire-1f6feb?style=flat-square)](https://www.newswire.co.kr/newsRead.php?no=1033575)<br>
+  **WIGTN FLAKE**: A purpose-driven local intelligence platform. Users pick what they want to do (open a cafe, run targeted rental marketing, place outdoor ads, invest in real estate) and an AI expert panel cross-reads four datasets (real estate, foot traffic, card sales, telecom contracts) to recommend the best neighborhoods, surface anomaly signals before they show up in headlines, and project six-month trends. Built on a hybrid Snowflake Cortex × GPT-4o orchestration that lets the analysis read like a conversation between domain experts rather than a dashboard.
+- **Custos**: Always-on AI code review bot for GitLab. Four reviewer personas review merge requests in under 60 seconds, while an hourly proactive lane files prioritized issues. Built on Google ADK, Vertex AI Gemini, and Cloud Run (Google Cloud Rapid Agent Hackathon) [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/software/wigtn-bot) [![Video](https://img.shields.io/badge/Video-YouTube-FF0000?style=flat-square&logo=youtube)](https://youtu.be/UOhzd3VeB84)
+- **OpenSlot**: Zero-oversell ticketing infrastructure. Each seat is a row in a multi-region Amazon Aurora DSQL ledger with versioned conditional updates, verified against a simulated 2,000-buyer stampede with zero oversells (Vercel × AWS · H0: Hack the Zero Stack) [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/software/openslot) [![Video](https://img.shields.io/badge/Video-YouTube-FF0000?style=flat-square&logo=youtube)](https://youtu.be/o9iaDAvBSZY)
+- **TimeLens**: Multimodal AI museum curator processing voice + camera in real time on a Gemini Live API + ADK dual pipeline (Gemini Live Agent Challenge) [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/software/wigtn-agent) [![Video](https://img.shields.io/badge/Video-YouTube-FF0000?style=flat-square&logo=youtube)](https://youtu.be/ITaMtVO5jFg) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigtn-timelens)
