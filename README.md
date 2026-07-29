@@ -2,9 +2,7 @@
 
 # Hyeong-seob(Harrison) Kim
 
-**AI Research Engineer** @ Braincrew · Research Engineering Team<br>
-**AI Researcher** @ RAPIDS LAB (MODULABS)<br>
-**Founder** @ WIGTN · AI Research Group
+**AI Research Engineer** @ Braincrew · **Founder** @ WIGTN
 
 *Former Construction Engineer turned AI Research Engineer*
 
@@ -19,67 +17,36 @@
 
 **I enjoy designing and refining AI pipelines, whether it's building RAG systems, orchestrating AI agents, or optimizing end-to-end workflows for production.**
 
-Currently at Braincrew's **Research Engineering** team, building production AI systems end-to-end.
+- Building B2B production AI systems end to end at **Braincrew** (Research Engineering Team)
+- Running **WIGTN**, an AI research group: speech translation, document AI, developer tools
+- Researching GPU-accelerated ML at **RAPIDS LAB (MODULABS)**: [study notes](https://github.com/Hyeongseob91/research-nvidia-rapids) · [WikiDocs](https://wikidocs.net/book/13459)
 
-Previously led the **SoundMind AI Ecosystem** (RAG Pipeline optimization, Admin Console, B2B SaaS Platform) at Soundmind (2025.07 ~ 2026.03).
-
-## Tech Stack
+Full career details: [hyeongseob91.github.io](https://hyeongseob91.github.io)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![RAPIDS](https://img.shields.io/badge/RAPIDS-7400B8?style=flat-square&logo=nvidia&logoColor=white)
 ![vLLM](https://img.shields.io/badge/vLLM-FF6F00?style=flat-square)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## Current Work @ Braincrew (2026.04 ~)
+## Research
 
-**AI Research Engineer · Research Engineering Team**
-- Design and build B2B production AI systems end to end: advanced RAG pipelines, admin console, and SaaS platform
+- **WIGVO**: Real-time bidirectional speech translation over legacy PSTN calls (**Published in ACL 2026 System Demos, 1st Author**) [![Paper](https://img.shields.io/badge/Paper-ACL_Anthology-B31B1B?style=flat-square)](https://aclanthology.org/2026.acl-demo.33/) [![Video](https://img.shields.io/badge/Video-YouTube-FF0000?style=flat-square&logo=youtube)](https://youtu.be/jK1CDOQExLw) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigvo)
+- **WigtnOCR**: VLM-based Korean public document parsing framework, 2B model surpassing 30B Teacher (**EMNLP 2026 In Prep**) [![Model](https://img.shields.io/badge/Model-HuggingFace-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/Wigtn/Qwen3-VL-2B-WigtnOCR) [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/Wigtn/KoGovDoc-Bench) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigtnOCR-v1)
 
-## Previous Work @ Soundmind (2025.07 ~ 2026.03)
+## Open Source
 
-**AI Product Engineering**
-- **SoundMind-AI-Console**: Admin Dashboard for RAG Pipeline auto-generation & one-click Docker deployment
-- **SoundMind-AI-Platform**: B2B SaaS with Chat Agent & RAG Agent, up to 99 simultaneous RAG Pipelines
-
-**AI R&D**
-- **Advanced RAG Pipeline**: Query Rewrite, Hybrid Search, Reranking, RAGAS evaluation (+13%p quality improvement)
-
-
-## NVIDIA RAPIDS LAB · Research Community
-
-[![WikiDocs](https://img.shields.io/badge/WikiDocs-RAPIDS_Study-2563eb?style=for-the-badge)](https://wikidocs.net/book/13459)
-
-Member of [Modulabs RAPIDS LAB](https://github.com/ModulabsRAPIDSLAB), a research group focused on GPU-accelerated data science:
-
-- GPU-accelerated End-to-End Full GPU-based AutoML System research
-- GPU-accelerated ML study notes: https://github.com/Hyeongseob91/research-nvidia-rapids
-
+- **WIGTN-Coding**: Claude Code AI-Native development workflow plugins (7 Commands, 14 Agents, 7 Skills) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigtn-plugins)
+- **LLM Loadtester**: LLM serving performance benchmarking tool (TTFT/TPOT/Goodput visualization) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/Hyeongseob91/engineering-llm-loadtester)
 
 ## WIGTN · AI Research Group
 
 [![WIGTN](https://img.shields.io/badge/WIGTN-wigtn.com-2563eb?style=for-the-badge)](https://wigtn.com)
 
-**AI R&D**
-- **WIGVO**: Real-time bidirectional speech translation over legacy PSTN calls (**Published in ACL 2026 System Demos, 1st Author**) [![Paper](https://img.shields.io/badge/Paper-ACL_Anthology-B31B1B?style=flat-square)](https://aclanthology.org/2026.acl-demo.33/) [![Video](https://img.shields.io/badge/Video-YouTube-FF0000?style=flat-square&logo=youtube)](https://youtu.be/jK1CDOQExLw) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigvo)
-- **WigtnOCR**: VLM-based Korean public document parsing framework, 2B model surpassing 30B Teacher (**EMNLP 2026 In Prep**) [![Model](https://img.shields.io/badge/Model-HuggingFace-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/Wigtn/Qwen3-VL-2B-WigtnOCR) [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/Wigtn/KoGovDoc-Bench) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigtnOCR-v1)
-
-**Open Source**
-
-- **WIGTN-Coding**: Claude Code AI-Native development workflow plugins (7 Commands, 14 Agents, 7 Skills) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/wigtn/wigtn-plugins)
-- **LLM Loadtester**: LLM serving performance benchmarking tool (TTFT/TPOT/Goodput visualization) [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/Hyeongseob91/engineering-llm-loadtester)
-
-**Business Products**
-
-- **WIGVU**: YouTube subtitle extraction, translation & AI analysis service
-- **WIGEX**: Travel expense tracking mobile app with AI receipt OCR
+An AI research group founded in 2026. WIGTN takes research from idea to working system: real-time speech translation published at ACL 2026, VLM document parsing models released on HuggingFace, and open-source developer tooling. The same team builds together at hackathons.
 
 ## Hackathons & Awards
 
